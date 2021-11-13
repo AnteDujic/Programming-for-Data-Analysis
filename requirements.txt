@@ -1,3 +1,4 @@
+anaconda
 numpy
 matplotlib
 matplotlib.pyplot
