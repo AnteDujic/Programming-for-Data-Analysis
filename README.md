@@ -8,9 +8,9 @@ The notebook can be seen on:
 
 1. [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/Programming-for-Data-Analysis_assignment/blob/main/numpy-random.ipynb) *click to see static version* 
 
-2. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnteDujic/Programming-for-Data-Analysis/HEAD?labpath=https%3A%2F%2Fgithub.com%2FAnteDujic%2FProgramming-for-Data-Analysis%2Fblob%2Fmain%2Fnumpy-random.ipynb) *click to see interactive version* 
+2. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnteDujic/Programming-for-Data-Analysis_assignment/HEAD?labpath=numpy-random.ipynb) *click to see interactive version* 
 
 To run this notebook on Windows:
 - Download [Anaconda](https://docs.anaconda.com/anaconda/install/index.html)
-- Download [cmder] (https://cmder.net/)
+- Download [cmder](https://cmder.net/)
 - Run Jupyter Lab or Jupyter Notebook
