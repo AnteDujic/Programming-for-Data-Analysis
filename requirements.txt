@@ -1,5 +1,4 @@
 anaconda
 numpy
 matplotlib
-matplotlib.pyplot
-ipympl
+seaborn
